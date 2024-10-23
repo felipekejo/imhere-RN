@@ -15,6 +15,26 @@ export const styles = StyleSheet.create({
   eventDate:{
     color:'#6b6b6b',
     fontSize:16
+  },
+  input:{
+    backgroundColor:'#1f1e25',
+    height:56,
+    borderRadius:5,
+    color:'#fdfcfe',
+    padding:16,
+    fontSize:16,
+  },
+  buttonText:{
+    color:'#fdfcfe',
+    fontSize:24,
+  },
+  button:{
+    backgroundColor:'#31cf67',
+    height:56,
+    width:56,
+    borderRadius:5,
+    justifyContent:'center',
+    alignItems:'center'
   }
 
 });
